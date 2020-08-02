@@ -1,0 +1,7 @@
+- name: Matheus Cavalher
+  bio: |
+    Matheus Cavalher-Rossi is a Brazilian architect based in Canada, whose interdisciplinary work and research focuses on sustainable rural development and agroecology.
+  avatar: ./avatars/matheus-cavalher.png
+  featured: true
+  social:
+    - url: mailto:matt.cavalherrossi@gmail.com
