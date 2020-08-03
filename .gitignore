@@ -4,3 +4,5 @@ node_modules/
 # gatsby files
 .cache/
 public
+
+.DS_Store
